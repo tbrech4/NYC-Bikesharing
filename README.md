@@ -39,7 +39,7 @@ Male subscribers are the most frequent riders. One interesting thing to note is 
 
 This map of starting station popularity shows that most of the popular stations are in Manhattan, especially south of Central Park. This would suggest that most of the people working in Manhattan work south of Central Park. 
 
-![Starttime Frequency Hour and Weekday](https://github.com/tbrech4/NYC-Bikesharing/blob/main/Resources/Viz6.png)
+![Starttime Frequency Hour and Weekday](https://github.com/tbrech4/NYC-Bikesharing/blob/main/Resources/Viz7.png)
 
 This breakout shows riding frequency by Subscriber Type & Whether the rides occurred on a weekday vs weekend. 
 
